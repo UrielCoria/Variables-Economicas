@@ -1,4 +1,9 @@
 # Variables-Economicas
-Muestra el cálculo de los principales indicadores económicos de México a partir de la información recopilada por INEGI con Jupyter Notebook.
 
-La Notebook del PIB por Estado tiene un problema por el tamaño del archivo y no puede ser visualizado. Se recomienda el uso de Nbviewer para su visualización.
+Repositorio con código para cálcular lo esencial para un economista.
+
+Se desea que el código aquí presentado pueda ser de ayuda para todos los estudiantes, en especial de escuelas públicas, como apoyo a la realización de sus trabajos
+económicos con el lenguaje Python y alentarlos a especializarse en la materia.
+
+Puede que algunos códigos no puedan ser visualizados por las limitaciones de la plataforma, se recomienda utilizar la plataforma 
+<a href="https://nbviewer.org">nbviewer</a> usando la URL de la Notebook deseada.
